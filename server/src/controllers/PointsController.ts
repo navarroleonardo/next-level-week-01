@@ -50,6 +50,8 @@ class PointsController {
         // cidade, uf, items
         const { city, uf, items } = req.query;
 
+        console.log('parametros', city, uf, items)
+
         const parsedItems = String(items)
             .split(',')
             .map(item => Number(item.trim()));
@@ -61,6 +63,8 @@ class PointsController {
             .where('uf', String(uf))
             .distinct()
             .select('points.*');
+
+        console.log('pontos encontrados', points);
 
         return res.json({ points })
     }
