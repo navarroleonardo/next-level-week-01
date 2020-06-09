@@ -1,24 +1,22 @@
 <h1  align="center">
-<img  alt="Ecoleta"  title="#NWL"  src="./.github/logo.png"  width="250px" />
+<img  alt="Ecoleta"  title="Ecoleta"  src="./.github/logo.png"  width="250px" />
 </h1>
 
-<h4  align="center">
-	♻ Sumário ♻
-</h4>
+<h2 align="center">Sumário</h2>
 
 
 <p  align="center">
-<a  href="#bulb-projeto">:bulb: Projeto</a>
-<a  href="#pencil-tecnologias"> :pencil: Tecnologias</a>
-<a  href="#purple_hearth-preview">:purple_heart: Preview</a>
-<a  href="#rocket-getting-started">:rocket: Getting Started </a>
-<a  href="#trophy-conclusao">:trophy: Conclusão </a>
+<a  href="#bulb-projeto">:bulb: Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a  href="#pencil-tecnologias"> :pencil: Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a  href="#heart-preview">:heart: Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a  href="#rocket-getting-started">:rocket: Getting Started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a  href="#trophy-conclusão">:trophy: Conclusão </a>
 </p>
 
 
 ## :bulb: Projeto
 
-<b>Ecoleta</b> foi a aplicação desenvolvida pela [Rocketseat](https://rocketseat.com.br/), com o propósito de compartilhar com a comunidade, gratuitamente, a aplicação de diversas tecnologias, na construção de uma API com a temática de meio-ambiente, visto o evento ser realizado durante a Semana Mundial do Meio Ambiente (1° de Jun - 5 de Jun).
+<b>Ecoleta</b> foi a aplicação desenvolvida pela [Rocketseat](https://rocketseat.com.br/), com o propósito de compartilhar com a comunidade, gratuitamente, a aplicação de diversas tecnologias, na construção de uma API com a temática de meio ambiente, visto o evento ser realizado durante a Semana Mundial do Meio Ambiente (1° de Jun - 5 de Jun).
 
 Com esta API, pontos de coletas de resíduos serão conectados com os cidadãos, facilitando o processo de reciclagem, consequentemente ajudando a preserver o meio ambiente.
 
@@ -52,14 +50,15 @@ Com esta API, pontos de coletas de resíduos serão conectados com os cidadãos,
 - [Axios;](https://github.com/axios/axios)
 
 
-## :purple_heart: Preview
+## :heart: Preview
 
 <p  align="center">
-<img  alt="banner"  src="./.github/ecoletaweb.png"  width="100%">
+<img  alt="Landing Page Desktop"  src="./.github/ecoletaweb.png"  width="100%">
 </p> 
 
 <p  align="center">
-<img  alt="banner"  src="./.github/ecoletamobile.png"  width="35%">
+<img  alt="Mobile Page Points" src="./.github/mobile-map.png" width="30%">
+<img  alt="Mobile Page Detail" src="./.github/mobile-point.png" width="30%">
 </p> 
 
 ## :rocket: Getting Started
@@ -97,8 +96,6 @@ Navegue para a subpasta web e execute o comando `npm start`. Uma janela será ab
 Para rodar o sistema, navegue para a subpasta mobile e execute o comando `npm start`. Uma nova janela será aberta no seu navegador padrão. Quando o QR Code for carregado, abra a camera do seu celular, escaneie o código, e você será direcionado para o Expo app. Com isso, você já será capaz de filtrar os pontos de coleta cadastrados, primeiramente pela localidade (UF e Cidade), e posteriormente pelos itens coletados.
 
 
---- 
-
 ## :trophy: Conclusão
 
 Esse evento foi muito bom para ter o primeiro contato com tecnologias muito interessantes, como TypeScript, React, Axios e Expo.
@@ -109,6 +106,8 @@ Fiquei impressionado com a praticidade que o Expo tem para nos possibilitar roda
 
 Foi muito bom para mim abrir essas novas portas. Com certeza eu continuarei estudando para conseguir melhorar o meu nível de conhecimento nestas tecnologias, e conseguir utilizá-las de forma eficaz e eficiente dentro dos futuros projetos.
 
-<h5 align="center"> 🚀 Ecoleta by Leonardo Navarro 💜 </h5>
+--- 
+
+<h5 align="center"> 🚀 Ecoleta by Leonardo Navarro :heart: </h5>
 
 ---
